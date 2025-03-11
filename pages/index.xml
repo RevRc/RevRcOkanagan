@@ -1,399 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on RevRc</title><link>https://revrc.github.io/RevRcOkanagan/pages/</link><description>Recent content in Pages on RevRc</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://revrc.github.io/RevRcOkanagan/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Elements</title><link>https://revrc.github.io/RevRcOkanagan/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.github.io/RevRcOkanagan/elements/</guid><description>&lt;details class="table-of-content ">
- &lt;summary>
- 
- Table of Contents
- 
- &lt;/summary>
- &lt;nav id="TableOfContents">
- &lt;ol>
- &lt;li>&lt;a href="#heading-2">Heading 2&lt;/a>
- &lt;ol>
- &lt;li>&lt;a href="#heading-3">Heading 3&lt;/a>
- &lt;ol>
- &lt;li>&lt;a href="#heading-4">Heading 4&lt;/a>
- &lt;ol>
- &lt;li>&lt;a href="#heading-5">Heading 5&lt;/a>&lt;/li>
- &lt;/ol>
- &lt;/li>
- &lt;/ol>
- &lt;/li>
- &lt;li>&lt;a href="#emphasis">Emphasis&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#button">Button&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#link">Link&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#paragraph">Paragraph&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#ordered-list">Ordered List&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#unordered-list">Unordered List&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#notice">Notice&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#tab">Tab&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#accordions">Accordions&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#code-and-syntax-highlighting">Code and Syntax Highlighting&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#blockquote">Blockquote&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#tables">Tables&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#image">Image&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#gallery">Gallery&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#slider">Slider&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#youtube-video">Youtube video&lt;/a>&lt;/li>
- &lt;li>&lt;a href="#custom-video">Custom video&lt;/a>&lt;/li>
- &lt;/ol>
- &lt;/li>
- &lt;/ol>
-&lt;/nav>
-&lt;/details>
-
-&lt;p>Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code>#&lt;/code> for heading 1 and use &lt;code>######&lt;/code> for heading 6.&lt;/p></description></item><item><title>Gallery</title><link>https://revrc.github.io/RevRcOkanagan/media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.github.io/RevRcOkanagan/media/</guid><description>&lt;hr>
-&lt;h3 id="gallery">Gallery&lt;/h3>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- &lt;strong style="display: inline-block; margin-top:15px">
- Nothing to show in [https://revrc.github.io/RevRcOkanagan/&lt;span style="color:red">
- images/slider
- &lt;/span>
- ] or folder does not exist
- &lt;/strong>
-
-&lt;hr></description></item><item><title>Privacy</title><link>https://revrc.github.io/RevRcOkanagan/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.github.io/RevRcOkanagan/privacy-policy/</guid><description>&lt;h4 id="responsibility-of-contributors">Responsibility of Contributors&lt;/h4>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p></description></item><item><title>Racing</title><link>https://revrc.github.io/RevRcOkanagan/class/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.github.io/RevRcOkanagan/class/</guid><description>&lt;h5 id="rev-rc-strives-to-be-easy-to-join-and-get-going-with-rc-racing-we-welcome-all-age-levels-and-experience">Rev RC strives to be easy to join and get going with rc racing. We welcome all age levels and experience.&lt;/h5>
-&lt;p>Members are allowed on the track with almost any eletric RC with appropriate Tires. (Non-aggressive tred)&lt;/p></description></item><item><title>Track</title><link>https://revrc.github.io/RevRcOkanagan/track/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.github.io/RevRcOkanagan/track/</guid><description>&lt;h3 id="kelowna-track">Kelowna Track&lt;/h3>
-&lt;p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- 
-
- 
-
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
- 
- 
- &lt;img
- title="image title"
- loading="lazy"
- decoding="async"
- class="img img-fluid img-left"
- width="4000"
- height="2250"
- src="https://revrc.github.io/RevRcOkanagan/images/001_hu_714257421982736.JPG"
- alt="alter-text"
- onerror="this.onerror='null';this.src='\/RevRcOkanagan\/images\/001_hu_714257421982736.JPG'" />
- 
- 
-
- 
- 
-
-
-
-
-
-
- &lt;script>
- window.addEventListener("load", (e) => {
- const lightbox = GLightbox();
- });
- &lt;/script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- 
-
- 
-
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
- 
- 
- &lt;img
- title="image title"
- loading="lazy"
- decoding="async"
- class="img img-fluid img-center"
- width="4000"
- height="2250"
- src="https://revrc.github.io/RevRcOkanagan/images/002_hu_8392d2373762aae4.JPG"
- alt="alter-text"
- onerror="this.onerror='null';this.src='\/RevRcOkanagan\/images\/002_hu_8392d2373762aae4.JPG'" />
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- 
-
- 
-
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
-
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
- 
- 
- 
- 
- &lt;img
- title="image title"
- loading="lazy"
- decoding="async"
- class="img img-fluid img-right"
- width="4000"
- height="2250"
- src="https://revrc.github.io/RevRcOkanagan/images/003_hu_9234b6ceb26c266b.JPG"
- alt="alter-text"
- onerror="this.onerror='null';this.src='\/RevRcOkanagan\/images\/003_hu_9234b6ceb26c266b.JPG'" />
- 
- 
-
- 
- 
-
-
-
-
-
-
-&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on RevRc</title>
+    <link>http://localhost:1313/RevRcOkanagan/pages/</link>
+    <description>Recent content in Pages on RevRc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/RevRcOkanagan/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elements</title>
+      <link>http://localhost:1313/RevRcOkanagan/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RevRcOkanagan/elements/</guid>
+      <description>&lt;details class=&#34;table-of-content &#34;&gt;&#xA;  &lt;summary&gt;&#xA;    &#xA;      Table of Contents&#xA;    &#xA;  &lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#heading-2&#34;&gt;Heading 2&lt;/a&gt;&#xA;      &lt;ol&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#heading-3&#34;&gt;Heading 3&lt;/a&gt;&#xA;          &lt;ol&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#heading-4&#34;&gt;Heading 4&lt;/a&gt;&#xA;              &lt;ol&gt;&#xA;                &lt;li&gt;&lt;a href=&#34;#heading-5&#34;&gt;Heading 5&lt;/a&gt;&lt;/li&gt;&#xA;              &lt;/ol&gt;&#xA;            &lt;/li&gt;&#xA;          &lt;/ol&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#emphasis&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#button&#34;&gt;Button&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#paragraph&#34;&gt;Paragraph&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ordered-list&#34;&gt;Ordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#unordered-list&#34;&gt;Unordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#notice&#34;&gt;Notice&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tab&#34;&gt;Tab&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#accordions&#34;&gt;Accordions&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquote&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tables&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#image&#34;&gt;Image&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#slider&#34;&gt;Slider&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#youtube-video&#34;&gt;Youtube video&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#custom-video&#34;&gt;Custom video&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>http://localhost:1313/RevRcOkanagan/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RevRcOkanagan/media/</guid>
+      <description>&lt;hr&gt;&#xD;&#xA;&lt;h3 id=&#34;gallery&#34;&gt;Gallery&lt;/h3&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &lt;strong style=&#34;display: inline-block; margin-top:15px&#34;&gt;&#xD;&#xA;    Nothing to show in [http://localhost:1313/RevRcOkanagan/&lt;span style=&#34;color:red&#34;&gt;&#xD;&#xA;      images/slider&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    ] or folder does not exist&#xD;&#xA;  &lt;/strong&gt;&#xD;&#xA;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/RevRcOkanagan/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RevRcOkanagan/privacy-policy/</guid>
+      <description>&lt;h4 id=&#34;responsibility-of-contributors&#34;&gt;Responsibility of Contributors&lt;/h4&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Racing</title>
+      <link>http://localhost:1313/RevRcOkanagan/class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RevRcOkanagan/class/</guid>
+      <description>&lt;h5 id=&#34;rev-rc-strives-to-be-easy-to-join-and-get-going-with-rc-racing-we-welcome-all-age-levels-and-experience&#34;&gt;Rev RC strives to be easy to join and get going with rc racing. We welcome all age levels and experience.&lt;/h5&gt;&#xA;&lt;p&gt;Members are allowed on the track with almost any eletric RC with appropriate Tires.  (Non-aggressive tred)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Track</title>
+      <link>http://localhost:1313/RevRcOkanagan/track/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RevRcOkanagan/track/</guid>
+      <description>&lt;h3 id=&#34;kelowna-track&#34;&gt;Kelowna Track&lt;/h3&gt;&#xA;&lt;p&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;      &#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;          &lt;img&#xD;&#xA;            title=&#34;image title&#34;&#xD;&#xA;            loading=&#34;lazy&#34;&#xD;&#xA;            decoding=&#34;async&#34;&#xD;&#xA;            class=&#34;img img-fluid img-left&#34;&#xD;&#xA;            width=&#34;4000&#34;&#xD;&#xA;            height=&#34;2250&#34;&#xD;&#xA;            src=&#34;http://localhost:1313/RevRcOkanagan/images/001_hu_714257421982736.JPG&#34;&#xD;&#xA;            alt=&#34;alter-text&#34;&#xD;&#xA;            onerror=&#34;this.onerror=&#39;null&#39;;this.src=&#39;\/RevRcOkanagan\/images\/001_hu_714257421982736.JPG&#39;&#34; /&gt;&#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &lt;script&gt;&#xD;&#xA;    window.addEventListener(&#34;load&#34;, (e) =&gt; {&#xD;&#xA;      const lightbox = GLightbox();&#xD;&#xA;    });&#xD;&#xA;  &lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;      &#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;          &lt;img&#xD;&#xA;            title=&#34;image title&#34;&#xD;&#xA;            loading=&#34;lazy&#34;&#xD;&#xA;            decoding=&#34;async&#34;&#xD;&#xA;            class=&#34;img img-fluid img-center&#34;&#xD;&#xA;            width=&#34;4000&#34;&#xD;&#xA;            height=&#34;2250&#34;&#xD;&#xA;            src=&#34;http://localhost:1313/RevRcOkanagan/images/002_hu_8392d2373762aae4.JPG&#34;&#xD;&#xA;            alt=&#34;alter-text&#34;&#xD;&#xA;            onerror=&#34;this.onerror=&#39;null&#39;;this.src=&#39;\/RevRcOkanagan\/images\/002_hu_8392d2373762aae4.JPG&#39;&#34; /&gt;&#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;      &#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;          &lt;img&#xD;&#xA;            title=&#34;image title&#34;&#xD;&#xA;            loading=&#34;lazy&#34;&#xD;&#xA;            decoding=&#34;async&#34;&#xD;&#xA;            class=&#34;img img-fluid img-right&#34;&#xD;&#xA;            width=&#34;4000&#34;&#xD;&#xA;            height=&#34;2250&#34;&#xD;&#xA;            src=&#34;http://localhost:1313/RevRcOkanagan/images/003_hu_9234b6ceb26c266b.JPG&#34;&#xD;&#xA;            alt=&#34;alter-text&#34;&#xD;&#xA;            onerror=&#34;this.onerror=&#39;null&#39;;this.src=&#39;\/RevRcOkanagan\/images\/003_hu_9234b6ceb26c266b.JPG&#39;&#34; /&gt;&#xD;&#xA;      &#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

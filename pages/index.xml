@@ -1,70 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on RevRc</title><link>https://revrc.ca/pages/</link><description>Recent content in Pages on RevRc</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://revrc.ca/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>2025 racing schedule</title><link>https://revrc.ca/2025schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.ca/2025schedule/</guid><description>&lt;h3 id="2025-racing-schedule">2025 Racing schedule&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Date&lt;/th>
- &lt;th style="text-align: center">Location/Event&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>June 1st&lt;/td>
- &lt;td style="text-align: center">Kelowna Club Race&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>June 15th&lt;/td>
- &lt;td style="text-align: center">Kelowna Club Race (Father&amp;rsquo;s Day, bring Dad for free)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Jun 20th - 22nd&lt;/td>
- &lt;td style="text-align: center">&lt;em>&lt;strong>Kamloops Summer Classic Trophy Race&lt;/strong>&lt;/em>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>June 29th&lt;/td>
- &lt;td style="text-align: center">Kelowna Club Race&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>July 13th&lt;/td>
- &lt;td style="text-align: center">Kelowna Club Race&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>July 27th&lt;/td>
- &lt;td style="text-align: center">Kelowna Club Race&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Aug 10th&lt;/td>
- &lt;td style="text-align: center">Kelowna Club Race&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Aug 15th&lt;/td>
- &lt;td style="text-align: center">17th &lt;em>&lt;strong>Coquitlam Classic Trophy Race&lt;/strong>&lt;/em>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Aug 24th&lt;/td>
- &lt;td style="text-align: center">Kelowna Club Race&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Aug 29th&lt;/td>
- &lt;td style="text-align: center">31st &lt;em>&lt;strong>Kamloops - End of Summer Challenge&lt;/strong>&lt;/em>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Sept 5th&lt;/td>
- &lt;td style="text-align: center">7th &lt;em>&lt;strong>Kelowna - Electro Inferno Trophy Race&lt;/strong>&lt;/em>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Sept 19th&lt;/td>
- &lt;td style="text-align: center">21st &lt;em>&lt;strong>Coastal Offroad Race - Carpet Wars 2025&lt;/strong>&lt;/em>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>Sept 28th&lt;/td>
- &lt;td style="text-align: center">Kelowna Last Club Race&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;p>*** Trophy Races you may want to attend.
-Also this schedule reflects opposite weekends with Kamloops (TVRCRC Club on Facebook) racing, so make the trip out to race with them.
-Out of town memberships will be recognized and encouraged.&lt;/p></description></item><item><title>Gallery</title><link>https://revrc.ca/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.ca/gallery/</guid><description>&lt;hr>
-&lt;h3 id="gallery">Gallery&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on RevRc</title><link>https://revrc.ca/pages/</link><description>Recent content in Pages on RevRc</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://revrc.ca/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Gallery</title><link>https://revrc.ca/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.ca/gallery/</guid><description>&lt;hr&gt;
+&lt;h3 id="gallery"&gt;Gallery&lt;/h3&gt;
 
 
 
@@ -90,7 +25,7 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  &lt;div
  class=" gallery 
  zoomable
- ">
+ "&gt;
  
  
  
@@ -161,28 +96,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/ebuggy.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/ebuggy_hu_ff3746be74d3ad18.jpg"
+ src="https://revrc.ca/images/gallery/ebuggy_hu_625c71c5dd998666.jpg"
  class="img"
  style="margin: 0;"
  alt="ebuggy.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/ebuggy_hu_ff3746be74d3ad18.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/ebuggy_hu_625c71c5dd998666.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -193,40 +130,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -238,6 +141,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -248,28 +183,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp0588_48435867837_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp0588_48435867837_o_hu_8dc6b3e67b7213c8.jpg"
+ src="https://revrc.ca/images/gallery/imgp0588_48435867837_o_hu_7e707cb5fce33fc.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp0588_48435867837_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp0588_48435867837_o_hu_8dc6b3e67b7213c8.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp0588_48435867837_o_hu_7e707cb5fce33fc.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -280,40 +217,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -325,6 +228,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -335,28 +270,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp0660_48435866782_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp0660_48435866782_o_hu_391aa588ebdeb717.jpg"
+ src="https://revrc.ca/images/gallery/imgp0660_48435866782_o_hu_2cf8ed9fe4d6260d.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp0660_48435866782_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp0660_48435866782_o_hu_391aa588ebdeb717.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp0660_48435866782_o_hu_2cf8ed9fe4d6260d.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -367,40 +304,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -412,6 +315,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -422,28 +357,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp1496_48435712636_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp1496_48435712636_o_hu_b4d8a074e48b36c.jpg"
+ src="https://revrc.ca/images/gallery/imgp1496_48435712636_o_hu_fdda5481d42e5efe.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp1496_48435712636_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1496_48435712636_o_hu_b4d8a074e48b36c.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1496_48435712636_o_hu_fdda5481d42e5efe.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -454,40 +391,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -499,6 +402,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -509,28 +444,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp1538_48435858387_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp1538_48435858387_o_hu_fd721338a0e090e.jpg"
+ src="https://revrc.ca/images/gallery/imgp1538_48435858387_o_hu_fa0be23afb9a2429.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp1538_48435858387_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1538_48435858387_o_hu_fd721338a0e090e.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1538_48435858387_o_hu_fa0be23afb9a2429.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -541,40 +478,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -586,6 +489,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -596,28 +531,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp1548_48435858117_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp1548_48435858117_o_hu_657ea0d07b9b59ae.jpg"
+ src="https://revrc.ca/images/gallery/imgp1548_48435858117_o_hu_24a7e58e55e85487.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp1548_48435858117_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1548_48435858117_o_hu_657ea0d07b9b59ae.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1548_48435858117_o_hu_24a7e58e55e85487.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -628,40 +565,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -673,6 +576,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -683,28 +618,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp1615_48435857807_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp1615_48435857807_o_hu_9ac0546a2062e562.jpg"
+ src="https://revrc.ca/images/gallery/imgp1615_48435857807_o_hu_bcc1f5ce246bcf74.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp1615_48435857807_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1615_48435857807_o_hu_9ac0546a2062e562.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1615_48435857807_o_hu_bcc1f5ce246bcf74.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -715,40 +652,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -760,6 +663,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -770,28 +705,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp1670_48435711551_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp1670_48435711551_o_hu_ea02e19dc72ee9f8.jpg"
+ src="https://revrc.ca/images/gallery/imgp1670_48435711551_o_hu_50d095d78dedbb9a.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp1670_48435711551_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1670_48435711551_o_hu_ea02e19dc72ee9f8.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1670_48435711551_o_hu_50d095d78dedbb9a.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -802,40 +739,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -847,6 +750,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -857,28 +792,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp1718_48435711401_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp1718_48435711401_o_hu_d6d3f44e1d9c4ce7.jpg"
+ src="https://revrc.ca/images/gallery/imgp1718_48435711401_o_hu_ab0c00898ca2d18d.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp1718_48435711401_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1718_48435711401_o_hu_d6d3f44e1d9c4ce7.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1718_48435711401_o_hu_ab0c00898ca2d18d.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -889,40 +826,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -934,6 +837,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -944,28 +879,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp1767_48435711166_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp1767_48435711166_o_hu_3bc79e6ff992875c.jpg"
+ src="https://revrc.ca/images/gallery/imgp1767_48435711166_o_hu_458993404b33ba4f.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp1767_48435711166_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1767_48435711166_o_hu_3bc79e6ff992875c.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1767_48435711166_o_hu_458993404b33ba4f.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -976,40 +913,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -1021,6 +924,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -1031,28 +966,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp1788_48435710851_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp1788_48435710851_o_hu_98f465e714250c17.jpg"
+ src="https://revrc.ca/images/gallery/imgp1788_48435710851_o_hu_51514a6309e764cc.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp1788_48435710851_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1788_48435710851_o_hu_98f465e714250c17.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1788_48435710851_o_hu_51514a6309e764cc.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -1063,40 +1000,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -1108,6 +1011,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -1118,28 +1053,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp1808_48435856687_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp1808_48435856687_o_hu_51d842ebd57555b5.jpg"
+ src="https://revrc.ca/images/gallery/imgp1808_48435856687_o_hu_4cca4e010f93df68.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp1808_48435856687_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1808_48435856687_o_hu_51d842ebd57555b5.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1808_48435856687_o_hu_4cca4e010f93df68.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -1150,40 +1087,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -1195,6 +1098,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -1205,28 +1140,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp1811_48435856507_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp1811_48435856507_o_hu_6ed933dc11d6f729.jpg"
+ src="https://revrc.ca/images/gallery/imgp1811_48435856507_o_hu_517f506d35d41e20.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp1811_48435856507_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1811_48435856507_o_hu_6ed933dc11d6f729.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp1811_48435856507_o_hu_517f506d35d41e20.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -1237,40 +1174,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -1282,6 +1185,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -1292,28 +1227,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp2860_48435700841_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp2860_48435700841_o_hu_cf9e856f343d343d.jpg"
+ src="https://revrc.ca/images/gallery/imgp2860_48435700841_o_hu_932402ca56d1ebcd.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp2860_48435700841_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp2860_48435700841_o_hu_cf9e856f343d343d.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp2860_48435700841_o_hu_932402ca56d1ebcd.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -1324,40 +1261,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -1369,6 +1272,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -1379,28 +1314,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp3092_48435843252_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp3092_48435843252_o_hu_5a23a38fc30a417e.jpg"
+ src="https://revrc.ca/images/gallery/imgp3092_48435843252_o_hu_c0a795ef2eb0c389.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp3092_48435843252_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3092_48435843252_o_hu_5a23a38fc30a417e.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3092_48435843252_o_hu_c0a795ef2eb0c389.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -1411,40 +1348,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -1456,6 +1359,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -1466,28 +1401,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp3171_48435843057_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp3171_48435843057_o_hu_1edc3e619c36be29.jpg"
+ src="https://revrc.ca/images/gallery/imgp3171_48435843057_o_hu_56b4e6c3d87aeb44.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp3171_48435843057_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3171_48435843057_o_hu_1edc3e619c36be29.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3171_48435843057_o_hu_56b4e6c3d87aeb44.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -1498,40 +1435,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -1543,6 +1446,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -1553,28 +1488,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp3196_48435696506_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp3196_48435696506_o_hu_e62989f4cba7bf48.jpg"
+ src="https://revrc.ca/images/gallery/imgp3196_48435696506_o_hu_755b156087f95c71.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp3196_48435696506_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3196_48435696506_o_hu_e62989f4cba7bf48.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3196_48435696506_o_hu_755b156087f95c71.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -1585,40 +1522,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -1630,6 +1533,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -1640,28 +1575,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp3283_48435695821_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp3283_48435695821_o_hu_e296ac9448215827.jpg"
+ src="https://revrc.ca/images/gallery/imgp3283_48435695821_o_hu_b00a88eb9976fb12.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp3283_48435695821_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3283_48435695821_o_hu_e296ac9448215827.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3283_48435695821_o_hu_b00a88eb9976fb12.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -1672,40 +1609,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -1717,6 +1620,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -1727,28 +1662,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp3443_48435695566_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp3443_48435695566_o_hu_f96903d5210f77d4.jpg"
+ src="https://revrc.ca/images/gallery/imgp3443_48435695566_o_hu_7a62df758016a2b.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp3443_48435695566_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3443_48435695566_o_hu_f96903d5210f77d4.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3443_48435695566_o_hu_7a62df758016a2b.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -1759,40 +1696,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -1804,6 +1707,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -1814,28 +1749,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp3476_48435841557_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp3476_48435841557_o_hu_f03ee10c55ba70b0.jpg"
+ src="https://revrc.ca/images/gallery/imgp3476_48435841557_o_hu_c013c6a3b3c9a47.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp3476_48435841557_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3476_48435841557_o_hu_f03ee10c55ba70b0.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3476_48435841557_o_hu_c013c6a3b3c9a47.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -1846,40 +1783,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -1891,6 +1794,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -1901,28 +1836,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp3516_48435694836_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp3516_48435694836_o_hu_77f483ac251187b4.jpg"
+ src="https://revrc.ca/images/gallery/imgp3516_48435694836_o_hu_9e71f3c612194efb.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp3516_48435694836_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3516_48435694836_o_hu_77f483ac251187b4.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3516_48435694836_o_hu_9e71f3c612194efb.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -1933,40 +1870,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -1978,6 +1881,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -1988,28 +1923,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp3780_48435694511_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp3780_48435694511_o_hu_f6677fb2c419ae14.jpg"
+ src="https://revrc.ca/images/gallery/imgp3780_48435694511_o_hu_cfa81cddffbf947e.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp3780_48435694511_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3780_48435694511_o_hu_f6677fb2c419ae14.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp3780_48435694511_o_hu_cfa81cddffbf947e.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -2020,40 +1957,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -2065,6 +1968,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -2075,28 +2010,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp4157_48435839432_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp4157_48435839432_o_hu_92e3bc51b3b51e39.jpg"
+ src="https://revrc.ca/images/gallery/imgp4157_48435839432_o_hu_b112d5794a0b5276.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp4157_48435839432_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp4157_48435839432_o_hu_92e3bc51b3b51e39.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp4157_48435839432_o_hu_b112d5794a0b5276.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -2107,40 +2044,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -2152,6 +2055,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -2162,28 +2097,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp4248_48435691791_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp4248_48435691791_o_hu_de1fa51bff557aa8.jpg"
+ src="https://revrc.ca/images/gallery/imgp4248_48435691791_o_hu_994b85d752de0e70.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp4248_48435691791_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp4248_48435691791_o_hu_de1fa51bff557aa8.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp4248_48435691791_o_hu_994b85d752de0e70.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -2194,40 +2131,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -2239,6 +2142,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -2249,28 +2184,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp4348_48435690586_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp4348_48435690586_o_hu_f3ff82b57dabfe7e.jpg"
+ src="https://revrc.ca/images/gallery/imgp4348_48435690586_o_hu_c62b76be1e0d12d2.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp4348_48435690586_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp4348_48435690586_o_hu_f3ff82b57dabfe7e.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp4348_48435690586_o_hu_c62b76be1e0d12d2.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -2281,40 +2218,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -2326,6 +2229,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -2336,28 +2271,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7113_48435832972_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7113_48435832972_o_hu_dc2e93881b73ebf4.jpg"
+ src="https://revrc.ca/images/gallery/imgp7113_48435832972_o_hu_a8827998f0c8b02e.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7113_48435832972_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7113_48435832972_o_hu_dc2e93881b73ebf4.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7113_48435832972_o_hu_a8827998f0c8b02e.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -2368,40 +2305,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -2413,6 +2316,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -2423,28 +2358,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7128_48435685926_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7128_48435685926_o_hu_7a8a13e390973f06.jpg"
+ src="https://revrc.ca/images/gallery/imgp7128_48435685926_o_hu_66139e06e8e60f89.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7128_48435685926_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7128_48435685926_o_hu_7a8a13e390973f06.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7128_48435685926_o_hu_66139e06e8e60f89.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -2455,40 +2392,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -2500,6 +2403,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -2510,28 +2445,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7191_48435685631_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7191_48435685631_o_hu_2934056ebc7d6c5a.jpg"
+ src="https://revrc.ca/images/gallery/imgp7191_48435685631_o_hu_6138072f9897c2c2.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7191_48435685631_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7191_48435685631_o_hu_2934056ebc7d6c5a.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7191_48435685631_o_hu_6138072f9897c2c2.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -2542,40 +2479,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -2587,6 +2490,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -2597,28 +2532,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7199_48435832077_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7199_48435832077_o_hu_f5ec667573b3a00d.jpg"
+ src="https://revrc.ca/images/gallery/imgp7199_48435832077_o_hu_ed6ed7ee7f5ec9b3.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7199_48435832077_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7199_48435832077_o_hu_f5ec667573b3a00d.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7199_48435832077_o_hu_ed6ed7ee7f5ec9b3.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -2629,40 +2566,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -2674,6 +2577,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -2684,28 +2619,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7355_48435684751_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7355_48435684751_o_hu_6f2c90dac65659b4.jpg"
+ src="https://revrc.ca/images/gallery/imgp7355_48435684751_o_hu_aa47a785fe7ac103.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7355_48435684751_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7355_48435684751_o_hu_6f2c90dac65659b4.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7355_48435684751_o_hu_aa47a785fe7ac103.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -2716,40 +2653,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -2761,6 +2664,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -2771,28 +2706,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7360_48435684401_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7360_48435684401_o_hu_8bb77912a0f27fa9.jpg"
+ src="https://revrc.ca/images/gallery/imgp7360_48435684401_o_hu_615fa5ab5b5b0f30.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7360_48435684401_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7360_48435684401_o_hu_8bb77912a0f27fa9.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7360_48435684401_o_hu_615fa5ab5b5b0f30.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -2803,40 +2740,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -2848,6 +2751,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -2858,28 +2793,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7377_48435684196_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7377_48435684196_o_hu_c1b92a88214e47cd.jpg"
+ src="https://revrc.ca/images/gallery/imgp7377_48435684196_o_hu_5b21f6fe71904ae9.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7377_48435684196_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7377_48435684196_o_hu_c1b92a88214e47cd.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7377_48435684196_o_hu_5b21f6fe71904ae9.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -2890,40 +2827,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -2935,6 +2838,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -2945,28 +2880,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7571_48435829917_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7571_48435829917_o_hu_29ac631e0742cc8d.jpg"
+ src="https://revrc.ca/images/gallery/imgp7571_48435829917_o_hu_72f6c8001e54c831.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7571_48435829917_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7571_48435829917_o_hu_29ac631e0742cc8d.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7571_48435829917_o_hu_72f6c8001e54c831.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -2977,40 +2914,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -3022,6 +2925,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -3032,28 +2967,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7600_48435829647_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7600_48435829647_o_hu_bc3110ae4538b019.jpg"
+ src="https://revrc.ca/images/gallery/imgp7600_48435829647_o_hu_48c2849b115d6d5d.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7600_48435829647_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7600_48435829647_o_hu_bc3110ae4538b019.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7600_48435829647_o_hu_48c2849b115d6d5d.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -3064,40 +3001,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -3109,6 +3012,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -3119,28 +3054,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7670_48435682856_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7670_48435682856_o_hu_d1e4f8b1ba40f2d7.jpg"
+ src="https://revrc.ca/images/gallery/imgp7670_48435682856_o_hu_acf3aeeae69239f7.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7670_48435682856_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7670_48435682856_o_hu_d1e4f8b1ba40f2d7.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7670_48435682856_o_hu_acf3aeeae69239f7.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -3151,40 +3088,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -3196,6 +3099,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -3206,28 +3141,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7705_48435828702_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7705_48435828702_o_hu_8a6e79ecc0dafb0d.jpg"
+ src="https://revrc.ca/images/gallery/imgp7705_48435828702_o_hu_26087cf4d0d18a59.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7705_48435828702_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7705_48435828702_o_hu_8a6e79ecc0dafb0d.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7705_48435828702_o_hu_26087cf4d0d18a59.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -3238,40 +3175,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -3283,6 +3186,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -3293,28 +3228,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7711_48435681791_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7711_48435681791_o_hu_fc25ad0b3a016d69.jpg"
+ src="https://revrc.ca/images/gallery/imgp7711_48435681791_o_hu_54ebea808961db11.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7711_48435681791_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7711_48435681791_o_hu_fc25ad0b3a016d69.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7711_48435681791_o_hu_54ebea808961db11.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -3325,40 +3262,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -3370,6 +3273,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -3380,28 +3315,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7722_48435681656_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7722_48435681656_o_hu_da172675d031ffbb.jpg"
+ src="https://revrc.ca/images/gallery/imgp7722_48435681656_o_hu_23dfedfb9b71d2d1.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7722_48435681656_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7722_48435681656_o_hu_da172675d031ffbb.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7722_48435681656_o_hu_23dfedfb9b71d2d1.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -3412,40 +3349,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -3457,6 +3360,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -3467,28 +3402,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7760_48435681286_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7760_48435681286_o_hu_378aa1c1cbbc21f1.jpg"
+ src="https://revrc.ca/images/gallery/imgp7760_48435681286_o_hu_751403e555845638.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7760_48435681286_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7760_48435681286_o_hu_378aa1c1cbbc21f1.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7760_48435681286_o_hu_751403e555845638.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -3499,40 +3436,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -3544,6 +3447,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -3554,28 +3489,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7792_48435680931_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7792_48435680931_o_hu_249e991d0f945867.jpg"
+ src="https://revrc.ca/images/gallery/imgp7792_48435680931_o_hu_624f985589e3b6c6.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7792_48435680931_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7792_48435680931_o_hu_249e991d0f945867.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7792_48435680931_o_hu_624f985589e3b6c6.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -3586,40 +3523,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -3631,6 +3534,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -3641,28 +3576,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7798_48435680721_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7798_48435680721_o_hu_cea5f8b7a93bf6e0.jpg"
+ src="https://revrc.ca/images/gallery/imgp7798_48435680721_o_hu_de02561461bd81a0.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7798_48435680721_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7798_48435680721_o_hu_cea5f8b7a93bf6e0.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7798_48435680721_o_hu_de02561461bd81a0.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -3673,40 +3610,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -3718,6 +3621,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -3728,28 +3663,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7802_48435680456_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7802_48435680456_o_hu_8c5ed6e6991c8e26.jpg"
+ src="https://revrc.ca/images/gallery/imgp7802_48435680456_o_hu_d6326a3003f4c883.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7802_48435680456_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7802_48435680456_o_hu_8c5ed6e6991c8e26.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7802_48435680456_o_hu_d6326a3003f4c883.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -3760,40 +3697,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -3805,6 +3708,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -3815,28 +3750,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7855_48435680091_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7855_48435680091_o_hu_2f49d5746248bd95.jpg"
+ src="https://revrc.ca/images/gallery/imgp7855_48435680091_o_hu_f68d3b46d683d997.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7855_48435680091_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7855_48435680091_o_hu_2f49d5746248bd95.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7855_48435680091_o_hu_f68d3b46d683d997.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -3847,40 +3784,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -3892,6 +3795,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -3902,28 +3837,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7906_48435826307_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7906_48435826307_o_hu_f83422b42200875c.jpg"
+ src="https://revrc.ca/images/gallery/imgp7906_48435826307_o_hu_57c46b597be4c2bd.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7906_48435826307_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7906_48435826307_o_hu_f83422b42200875c.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7906_48435826307_o_hu_57c46b597be4c2bd.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -3934,40 +3871,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -3979,6 +3882,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -3989,28 +3924,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7915_48435825902_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7915_48435825902_o_hu_a216554cecdcea74.jpg"
+ src="https://revrc.ca/images/gallery/imgp7915_48435825902_o_hu_481d4afa86165b0c.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7915_48435825902_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7915_48435825902_o_hu_a216554cecdcea74.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7915_48435825902_o_hu_481d4afa86165b0c.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -4021,40 +3958,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -4066,6 +3969,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -4076,28 +4011,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7922_48435679321_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7922_48435679321_o_hu_5922b73f9ed12936.jpg"
+ src="https://revrc.ca/images/gallery/imgp7922_48435679321_o_hu_5ec763d2f2e41f32.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7922_48435679321_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7922_48435679321_o_hu_5922b73f9ed12936.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7922_48435679321_o_hu_5ec763d2f2e41f32.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -4108,40 +4045,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -4153,6 +4056,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -4163,28 +4098,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7926_48435678961_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7926_48435678961_o_hu_109abd8366cad88.jpg"
+ src="https://revrc.ca/images/gallery/imgp7926_48435678961_o_hu_5bcddcfb321c706e.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7926_48435678961_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7926_48435678961_o_hu_109abd8366cad88.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7926_48435678961_o_hu_5bcddcfb321c706e.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -4195,40 +4132,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -4240,6 +4143,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -4250,28 +4185,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp7947_48435825037_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp7947_48435825037_o_hu_df8a8003c4df1e94.jpg"
+ src="https://revrc.ca/images/gallery/imgp7947_48435825037_o_hu_10b02e7ffc2eb4e3.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp7947_48435825037_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7947_48435825037_o_hu_df8a8003c4df1e94.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp7947_48435825037_o_hu_10b02e7ffc2eb4e3.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -4282,40 +4219,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -4327,6 +4230,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -4337,28 +4272,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8018_48435824622_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8018_48435824622_o_hu_a68ef80ec771ead2.jpg"
+ src="https://revrc.ca/images/gallery/imgp8018_48435824622_o_hu_3ea31dac3009243b.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8018_48435824622_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8018_48435824622_o_hu_a68ef80ec771ead2.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8018_48435824622_o_hu_3ea31dac3009243b.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -4369,40 +4306,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -4414,6 +4317,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -4424,28 +4359,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8031_48435824472_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8031_48435824472_o_hu_fd30a879ea746791.jpg"
+ src="https://revrc.ca/images/gallery/imgp8031_48435824472_o_hu_6214960e8534ca36.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8031_48435824472_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8031_48435824472_o_hu_fd30a879ea746791.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8031_48435824472_o_hu_6214960e8534ca36.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -4456,40 +4393,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -4501,6 +4404,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -4511,28 +4446,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8035_48435677796_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8035_48435677796_o_hu_3c9f8bf78ddb2b4.jpg"
+ src="https://revrc.ca/images/gallery/imgp8035_48435677796_o_hu_5cc33db26f044b20.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8035_48435677796_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8035_48435677796_o_hu_3c9f8bf78ddb2b4.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8035_48435677796_o_hu_5cc33db26f044b20.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -4543,40 +4480,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -4588,6 +4491,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -4598,28 +4533,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8038_48435677601_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8038_48435677601_o_hu_221a20000ed2e3f6.jpg"
+ src="https://revrc.ca/images/gallery/imgp8038_48435677601_o_hu_e44e80e88a4bb73a.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8038_48435677601_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8038_48435677601_o_hu_221a20000ed2e3f6.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8038_48435677601_o_hu_e44e80e88a4bb73a.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -4630,40 +4567,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -4675,6 +4578,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -4685,28 +4620,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8053_48435677256_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8053_48435677256_o_hu_e9254d58feaa728c.jpg"
+ src="https://revrc.ca/images/gallery/imgp8053_48435677256_o_hu_758ea95c6f4c3e7b.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8053_48435677256_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8053_48435677256_o_hu_e9254d58feaa728c.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8053_48435677256_o_hu_758ea95c6f4c3e7b.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -4717,40 +4654,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -4762,6 +4665,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -4772,28 +4707,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8054_48435677076_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8054_48435677076_o_hu_9843d9e46cee38d.jpg"
+ src="https://revrc.ca/images/gallery/imgp8054_48435677076_o_hu_473c59ea726adb24.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8054_48435677076_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8054_48435677076_o_hu_9843d9e46cee38d.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8054_48435677076_o_hu_473c59ea726adb24.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -4804,40 +4741,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -4849,6 +4752,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -4859,28 +4794,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8271_48435823342_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8271_48435823342_o_hu_bdc58509cab422d2.jpg"
+ src="https://revrc.ca/images/gallery/imgp8271_48435823342_o_hu_47e306f71823562a.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8271_48435823342_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8271_48435823342_o_hu_bdc58509cab422d2.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8271_48435823342_o_hu_47e306f71823562a.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -4891,40 +4828,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -4936,6 +4839,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -4946,28 +4881,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8325_48435822977_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8325_48435822977_o_hu_c2e909a55a613bcc.jpg"
+ src="https://revrc.ca/images/gallery/imgp8325_48435822977_o_hu_4bd412643a1343c9.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8325_48435822977_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8325_48435822977_o_hu_c2e909a55a613bcc.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8325_48435822977_o_hu_4bd412643a1343c9.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -4978,40 +4915,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -5023,6 +4926,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -5033,28 +4968,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8328_48435822422_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8328_48435822422_o_hu_105e45a1565fbffb.jpg"
+ src="https://revrc.ca/images/gallery/imgp8328_48435822422_o_hu_a62be4bd91b46b70.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8328_48435822422_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8328_48435822422_o_hu_105e45a1565fbffb.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8328_48435822422_o_hu_a62be4bd91b46b70.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -5065,40 +5002,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -5110,6 +5013,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -5120,28 +5055,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8335_48435675826_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8335_48435675826_o_hu_6ede1b4a0758edf8.jpg"
+ src="https://revrc.ca/images/gallery/imgp8335_48435675826_o_hu_618fa65f04ed5616.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8335_48435675826_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8335_48435675826_o_hu_6ede1b4a0758edf8.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8335_48435675826_o_hu_618fa65f04ed5616.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -5152,40 +5089,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -5197,6 +5100,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -5207,28 +5142,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8351_48435821597_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8351_48435821597_o_hu_f026f838ec506b72.jpg"
+ src="https://revrc.ca/images/gallery/imgp8351_48435821597_o_hu_978fb6ffa5a4374a.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8351_48435821597_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8351_48435821597_o_hu_f026f838ec506b72.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8351_48435821597_o_hu_978fb6ffa5a4374a.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -5239,40 +5176,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -5284,6 +5187,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -5294,28 +5229,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8394_48435675186_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8394_48435675186_o_hu_9340a45fc046daa0.jpg"
+ src="https://revrc.ca/images/gallery/imgp8394_48435675186_o_hu_964e472088dde45.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8394_48435675186_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8394_48435675186_o_hu_9340a45fc046daa0.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8394_48435675186_o_hu_964e472088dde45.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -5326,40 +5263,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -5371,6 +5274,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -5381,28 +5316,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8508_48435675021_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8508_48435675021_o_hu_57e1c18f5d7155c6.jpg"
+ src="https://revrc.ca/images/gallery/imgp8508_48435675021_o_hu_f0bc99284ee56f0f.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8508_48435675021_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8508_48435675021_o_hu_57e1c18f5d7155c6.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8508_48435675021_o_hu_f0bc99284ee56f0f.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -5413,40 +5350,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -5458,6 +5361,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -5468,28 +5403,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8515_48435674691_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8515_48435674691_o_hu_d6b9e12fd0848d24.jpg"
+ src="https://revrc.ca/images/gallery/imgp8515_48435674691_o_hu_dc22d885703a3f67.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8515_48435674691_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8515_48435674691_o_hu_d6b9e12fd0848d24.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8515_48435674691_o_hu_dc22d885703a3f67.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -5500,40 +5437,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -5545,6 +5448,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -5555,28 +5490,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8536_48435674331_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8536_48435674331_o_hu_ed3312f46709ba2a.jpg"
+ src="https://revrc.ca/images/gallery/imgp8536_48435674331_o_hu_46958e66e48ae965.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8536_48435674331_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8536_48435674331_o_hu_ed3312f46709ba2a.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8536_48435674331_o_hu_46958e66e48ae965.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -5587,40 +5524,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -5632,6 +5535,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -5642,28 +5577,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8546_48435673971_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8546_48435673971_o_hu_a8736dfd55d49c75.jpg"
+ src="https://revrc.ca/images/gallery/imgp8546_48435673971_o_hu_acc2104ec0905635.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8546_48435673971_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8546_48435673971_o_hu_a8736dfd55d49c75.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8546_48435673971_o_hu_acc2104ec0905635.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -5674,40 +5611,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -5719,6 +5622,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -5729,28 +5664,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8560_48435819457_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8560_48435819457_o_hu_1dce1eb01b587e70.jpg"
+ src="https://revrc.ca/images/gallery/imgp8560_48435819457_o_hu_5e84c8d1d02ed175.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8560_48435819457_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8560_48435819457_o_hu_1dce1eb01b587e70.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8560_48435819457_o_hu_5e84c8d1d02ed175.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -5761,40 +5698,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -5806,6 +5709,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -5816,28 +5751,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8563_48435819202_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8563_48435819202_o_hu_d829c9f99fcf1797.jpg"
+ src="https://revrc.ca/images/gallery/imgp8563_48435819202_o_hu_ebb9951743f5a1a6.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8563_48435819202_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8563_48435819202_o_hu_d829c9f99fcf1797.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8563_48435819202_o_hu_ebb9951743f5a1a6.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -5848,40 +5785,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -5893,6 +5796,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -5903,28 +5838,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8571_48435818947_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8571_48435818947_o_hu_f9ba73b7eef8b667.jpg"
+ src="https://revrc.ca/images/gallery/imgp8571_48435818947_o_hu_f359c9e1c1b90209.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8571_48435818947_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8571_48435818947_o_hu_f9ba73b7eef8b667.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8571_48435818947_o_hu_f359c9e1c1b90209.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -5935,40 +5872,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -5980,6 +5883,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -5990,28 +5925,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8596_48435672471_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8596_48435672471_o_hu_bce20f5c6146c99d.jpg"
+ src="https://revrc.ca/images/gallery/imgp8596_48435672471_o_hu_ba6256bc98eac729.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8596_48435672471_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8596_48435672471_o_hu_bce20f5c6146c99d.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8596_48435672471_o_hu_ba6256bc98eac729.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -6022,40 +5959,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -6067,6 +5970,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -6077,28 +6012,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8661_48435672216_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8661_48435672216_o_hu_b1ac73182ca9bf85.jpg"
+ src="https://revrc.ca/images/gallery/imgp8661_48435672216_o_hu_8c66b376a5ff7f9a.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8661_48435672216_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8661_48435672216_o_hu_b1ac73182ca9bf85.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8661_48435672216_o_hu_8c66b376a5ff7f9a.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -6109,40 +6046,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -6154,6 +6057,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -6164,28 +6099,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8739_48435818102_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8739_48435818102_o_hu_46ca842fce2f5d6f.jpg"
+ src="https://revrc.ca/images/gallery/imgp8739_48435818102_o_hu_1ed2f052c93d54f4.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8739_48435818102_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8739_48435818102_o_hu_46ca842fce2f5d6f.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8739_48435818102_o_hu_1ed2f052c93d54f4.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -6196,40 +6133,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -6241,6 +6144,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -6251,28 +6186,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8822_48435671661_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8822_48435671661_o_hu_c485199abb2b1d50.jpg"
+ src="https://revrc.ca/images/gallery/imgp8822_48435671661_o_hu_7e5832ed94cf1c7a.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8822_48435671661_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8822_48435671661_o_hu_c485199abb2b1d50.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8822_48435671661_o_hu_7e5832ed94cf1c7a.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -6283,40 +6220,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -6328,6 +6231,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -6338,28 +6273,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8867_48435817462_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8867_48435817462_o_hu_fd9aa9732f93b29f.jpg"
+ src="https://revrc.ca/images/gallery/imgp8867_48435817462_o_hu_f6bc642597dbacdf.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8867_48435817462_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8867_48435817462_o_hu_fd9aa9732f93b29f.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8867_48435817462_o_hu_f6bc642597dbacdf.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -6370,40 +6307,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -6415,6 +6318,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -6425,28 +6360,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8937_48435817202_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8937_48435817202_o_hu_6b8174c3b0df0fb9.jpg"
+ src="https://revrc.ca/images/gallery/imgp8937_48435817202_o_hu_af726063b2a71253.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8937_48435817202_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8937_48435817202_o_hu_6b8174c3b0df0fb9.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8937_48435817202_o_hu_af726063b2a71253.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -6457,40 +6394,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -6502,6 +6405,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -6512,28 +6447,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp8941_48435816962_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp8941_48435816962_o_hu_60e067dd44455120.jpg"
+ src="https://revrc.ca/images/gallery/imgp8941_48435816962_o_hu_5433682a3b03666e.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp8941_48435816962_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8941_48435816962_o_hu_60e067dd44455120.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp8941_48435816962_o_hu_5433682a3b03666e.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -6544,40 +6481,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -6589,6 +6492,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -6599,28 +6534,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9005_48435816732_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9005_48435816732_o_hu_efc3cca3503e2ea3.jpg"
+ src="https://revrc.ca/images/gallery/imgp9005_48435816732_o_hu_251832d229ae660e.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9005_48435816732_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9005_48435816732_o_hu_efc3cca3503e2ea3.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9005_48435816732_o_hu_251832d229ae660e.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -6631,40 +6568,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -6676,6 +6579,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -6686,28 +6621,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9105_48435670516_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9105_48435670516_o_hu_87745d249d1f2b03.jpg"
+ src="https://revrc.ca/images/gallery/imgp9105_48435670516_o_hu_e1ea06dfd58fc00a.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9105_48435670516_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9105_48435670516_o_hu_87745d249d1f2b03.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9105_48435670516_o_hu_e1ea06dfd58fc00a.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -6718,40 +6655,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -6763,6 +6666,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -6773,28 +6708,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9109_48435670291_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9109_48435670291_o_hu_d1f2141e069205c1.jpg"
+ src="https://revrc.ca/images/gallery/imgp9109_48435670291_o_hu_2a9ce091d153ff9a.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9109_48435670291_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9109_48435670291_o_hu_d1f2141e069205c1.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9109_48435670291_o_hu_2a9ce091d153ff9a.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -6805,40 +6742,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -6850,6 +6753,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -6860,28 +6795,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9114_48435670091_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9114_48435670091_o_hu_e77ec6007090aee8.jpg"
+ src="https://revrc.ca/images/gallery/imgp9114_48435670091_o_hu_8a5c1108452c9e39.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9114_48435670091_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9114_48435670091_o_hu_e77ec6007090aee8.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9114_48435670091_o_hu_8a5c1108452c9e39.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -6892,40 +6829,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -6937,6 +6840,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -6947,28 +6882,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9128_48435669836_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9128_48435669836_o_hu_4b72fcf6f27fa380.jpg"
+ src="https://revrc.ca/images/gallery/imgp9128_48435669836_o_hu_62ccc4b54af58915.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9128_48435669836_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9128_48435669836_o_hu_4b72fcf6f27fa380.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9128_48435669836_o_hu_62ccc4b54af58915.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -6979,40 +6916,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -7024,6 +6927,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -7034,28 +6969,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9145_48435815392_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9145_48435815392_o_hu_b0d9a609ebcf89f2.jpg"
+ src="https://revrc.ca/images/gallery/imgp9145_48435815392_o_hu_8d07d21cb650ff7.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9145_48435815392_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9145_48435815392_o_hu_b0d9a609ebcf89f2.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9145_48435815392_o_hu_8d07d21cb650ff7.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -7066,40 +7003,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -7111,6 +7014,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -7121,28 +7056,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9151_48435669156_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9151_48435669156_o_hu_4ea7aeb73e15b93.jpg"
+ src="https://revrc.ca/images/gallery/imgp9151_48435669156_o_hu_f26244974eb1c9a8.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9151_48435669156_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9151_48435669156_o_hu_4ea7aeb73e15b93.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9151_48435669156_o_hu_f26244974eb1c9a8.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -7153,40 +7090,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -7198,6 +7101,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -7208,28 +7143,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9157_48435814782_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9157_48435814782_o_hu_85c2b4606070466d.jpg"
+ src="https://revrc.ca/images/gallery/imgp9157_48435814782_o_hu_ca734d1150c934bd.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9157_48435814782_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9157_48435814782_o_hu_85c2b4606070466d.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9157_48435814782_o_hu_ca734d1150c934bd.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -7240,40 +7177,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -7285,6 +7188,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -7295,28 +7230,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9218_48435668636_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9218_48435668636_o_hu_c6d6e967c378f00d.jpg"
+ src="https://revrc.ca/images/gallery/imgp9218_48435668636_o_hu_84c8285b30b8ea9a.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9218_48435668636_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9218_48435668636_o_hu_c6d6e967c378f00d.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9218_48435668636_o_hu_84c8285b30b8ea9a.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -7327,40 +7264,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -7372,6 +7275,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -7382,28 +7317,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9242_48435667656_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9242_48435667656_o_hu_b05d866475074e0.jpg"
+ src="https://revrc.ca/images/gallery/imgp9242_48435667656_o_hu_944c4da7430f7542.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9242_48435667656_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9242_48435667656_o_hu_b05d866475074e0.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9242_48435667656_o_hu_944c4da7430f7542.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -7414,40 +7351,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -7459,6 +7362,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -7469,28 +7404,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9247_48435813087_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9247_48435813087_o_hu_ca0c3da89b0a64a0.jpg"
+ src="https://revrc.ca/images/gallery/imgp9247_48435813087_o_hu_6612611432cc980e.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9247_48435813087_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9247_48435813087_o_hu_ca0c3da89b0a64a0.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9247_48435813087_o_hu_6612611432cc980e.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -7501,40 +7438,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -7546,6 +7449,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -7556,28 +7491,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9536_48435810227_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9536_48435810227_o_hu_5e2094b21881ac8d.jpg"
+ src="https://revrc.ca/images/gallery/imgp9536_48435810227_o_hu_31ea09eaa854f6aa.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9536_48435810227_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9536_48435810227_o_hu_5e2094b21881ac8d.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9536_48435810227_o_hu_31ea09eaa854f6aa.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -7588,40 +7525,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -7633,6 +7536,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -7643,28 +7578,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/imgp9541_48435809932_o.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/imgp9541_48435809932_o_hu_e3192a125273de76.jpg"
+ src="https://revrc.ca/images/gallery/imgp9541_48435809932_o_hu_e109c9b282d5ea09.jpg"
  class="img"
  style="margin: 0;"
  alt="imgp9541_48435809932_o.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9541_48435809932_o_hu_e3192a125273de76.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/imgp9541_48435809932_o_hu_e109c9b282d5ea09.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -7675,40 +7612,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -7720,6 +7623,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -7730,28 +7665,30 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/sct.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/sct_hu_eeb691faf5f6a479.jpg"
+ src="https://revrc.ca/images/gallery/sct_hu_8795108c6de54844.jpg"
  class="img"
  style="margin: 0;"
  alt="sct.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/sct_hu_eeb691faf5f6a479.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/sct_hu_8795108c6de54844.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
- 
- 
+ &lt;/div&gt;
  
  
  
  
+ 
+ 
+
+
 
 
 
@@ -7762,40 +7699,6 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-
-
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
  
  
  
@@ -7807,6 +7710,38 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
  
  
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
 
 
  
@@ -7817,52 +7752,117 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  
  
 
- &lt;div class="gallery-item">
+ &lt;div class="gallery-item"&gt;
  
  &lt;a
  href="https://revrc.ca/images/gallery/truggy.jpg"
  style="display: block;"
- class="glightbox">
+ class="glightbox"&gt;
  &lt;img
  loading="lazy"
- src="https://revrc.ca/images/gallery/truggy_hu_fee7d8e8e6109db1.jpg"
+ src="https://revrc.ca/images/gallery/truggy_hu_83a9e3991433cab5.jpg"
  class="img"
  style="margin: 0;"
  alt="truggy.jpg"
- onerror="this.onerror='null';this.src='\/images\/gallery\/truggy_hu_fee7d8e8e6109db1.jpg'" />
- &lt;/a>
+ onerror="this.onerror='null';this.src='\/images\/gallery\/truggy_hu_83a9e3991433cab5.jpg'" /&gt;
+ &lt;/a&gt;
  
- &lt;/div>
+ &lt;/div&gt;
  
  
  
- &lt;/div>
+ &lt;/div&gt;
 
  
 
-&lt;hr></description></item><item><title>Racing</title><link>https://revrc.ca/racing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.ca/racing/</guid><description>&lt;h3 id="rev-rc-strives-to-be-easy-to-join-and-get-going-with-rc-racing-we-welcome-all-age-levels-and-experience">Rev RC strives to be easy to join and get going with rc racing. We welcome all age levels and experience.&lt;/h3>
-&lt;h6 id="rc-club-annual-membership-fees">RC Club Annual Membership Fees&lt;/h6>
-&lt;p>Welcome to the RC Club! We offer various membership tiers to fit the needs of our individual members and families. Below are the details of our annual membership fees:&lt;/p></description></item><item><title>Track and Racing Rules</title><link>https://revrc.ca/rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.ca/rules/</guid><description>&lt;h3 id="general-track-rules">General Track Rules&lt;/h3>
-&lt;ol>
-&lt;li>No Cursing please.&lt;/li>
-&lt;li>Clean up after yourself.&lt;/li>
-&lt;li>No Nitro!&lt;/li>
-&lt;li>Respect for All Drivers: Treat all racers with respect. No aggressive or unsportsmanlike behavior will be tolerated.&lt;/li>
-&lt;li>Track Access: Only authorized drivers and crew members are allowed on the track during racing. Spectators must remain in designated areas.&lt;/li>
-&lt;li>Track Etiquette: Always give way to faster drivers. If you are lapped, stay off the racing line to avoid interfering with faster racers.&lt;/li>
-&lt;li>Track Damage: If you accidentally damage the track (e.g., bumping a barrier), inform the race officials immediately for repairs.&lt;/li>
-&lt;/ol>
-&lt;h3 id="behavior-and-sportsmanship">Behavior and Sportsmanship&lt;/h3>
-&lt;ol>
-&lt;li>No Blocking: Drivers should avoid blocking other competitors or causing unnecessary collisions.&lt;/li>
-&lt;li>No Rough Driving: Intentional bumping or ramming into other vehicles will lead to penalties or disqualification.&lt;/li>
-&lt;li>Protests and Disputes: Any disputes should be brought to the race director or officials in a calm manner. No arguing during or after the race.&lt;/li>
-&lt;/ol>
-&lt;h3 id="racing-rules">Racing Rules&lt;/h3>
-&lt;ol>
-&lt;li>Corner Marshal after each race you are in for the next class, or let the Race Director know if someone is covering for you.&lt;/li>
-&lt;/ol></description></item><item><title>Track Pictures and videos</title><link>https://revrc.ca/track/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.ca/track/</guid><description>&lt;h3 id="kelowna-track">Kelowna Track&lt;/h3>
-&lt;p>
+&lt;hr&gt;</description></item><item><title>Racing</title><link>https://revrc.ca/racing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.ca/racing/</guid><description>&lt;h3 id="rev-rc-strives-to-be-easy-to-join-and-get-going-with-rc-racing-we-welcome-all-age-levels-and-experience"&gt;Rev RC strives to be easy to join and get going with rc racing. We welcome all age levels and experience.&lt;/h3&gt;
+&lt;h6 id="rc-club-annual-membership-fees"&gt;RC Club Annual Membership Fees&lt;/h6&gt;
+&lt;p&gt;Welcome to the RC Club! We offer various membership tiers to fit the needs of our individual members and families. Below are the details of our annual membership fees:&lt;/p&gt;</description></item><item><title>Track and Racing Rules</title><link>https://revrc.ca/rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.ca/rules/</guid><description>&lt;h3 id="general-track-rules"&gt;General Track Rules&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;No Cursing please.&lt;/li&gt;
+&lt;li&gt;Clean up after yourself.&lt;/li&gt;
+&lt;li&gt;No Nitro!&lt;/li&gt;
+&lt;li&gt;Respect for All Drivers: Treat all racers with respect. No aggressive or unsportsmanlike behavior will be tolerated.&lt;/li&gt;
+&lt;li&gt;Track Access: Only authorized drivers and crew members are allowed on the track during racing. Spectators must remain in designated areas.&lt;/li&gt;
+&lt;li&gt;Track Etiquette: Always give way to faster drivers. If you are lapped, stay off the racing line to avoid interfering with faster racers.&lt;/li&gt;
+&lt;li&gt;Track Damage: If you accidentally damage the track (e.g., bumping a barrier), inform the race officials immediately for repairs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="behavior-and-sportsmanship"&gt;Behavior and Sportsmanship&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;No Blocking: Drivers should avoid blocking other competitors or causing unnecessary collisions.&lt;/li&gt;
+&lt;li&gt;No Rough Driving: Intentional bumping or ramming into other vehicles will lead to penalties or disqualification.&lt;/li&gt;
+&lt;li&gt;Protests and Disputes: Any disputes should be brought to the race director or officials in a calm manner. No arguing during or after the race.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="racing-rules"&gt;Racing Rules&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Corner Marshal after each race you are in for the next class, or let the Race Director know if someone is covering for you.&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>Track Pictures and videos</title><link>https://revrc.ca/2025schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.ca/2025schedule/</guid><description>&lt;h3 id="2025-racing-schedule"&gt;2025 Racing schedule&lt;/h3&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Date&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;Location/Event&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;June 1st&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Kelowna Club Race&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;June 15th&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Kelowna Club Race (Father&amp;rsquo;s Day, bring Dad for free)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Jun 20th - 22nd&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;&lt;em&gt;&lt;strong&gt;Kamloops Summer Classic Trophy Race&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;June 29th&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Kelowna Club Race&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;July 13th&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Kelowna Club Race&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;July 27th&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Kelowna Club Race&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Aug 10th&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Kelowna Club Race&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Aug 15th&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;17th &lt;em&gt;&lt;strong&gt;Coquitlam Classic Trophy Race&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Aug 24th&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Kelowna Club Race&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Aug 29th&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;31st &lt;em&gt;&lt;strong&gt;Kamloops - End of Summer Challenge&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Sept 5th&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;7th &lt;em&gt;&lt;strong&gt;Kelowna - Electro Inferno Trophy Race&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Sept 19th&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;21st &lt;em&gt;&lt;strong&gt;Coastal Offroad Race - Carpet Wars 2025&lt;/strong&gt;&lt;/em&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Sept 28th&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Kelowna Last Club Race&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;*** Trophy Races you may want to attend.
+Also this schedule reflects opposite weekends with Kamloops (TVRCRC Club on Facebook) racing, so make the trip out to race with them.
+Out of town memberships will be recognized and encouraged.&lt;/p&gt;</description></item><item><title>Track Pictures and videos</title><link>https://revrc.ca/track/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://revrc.ca/track/</guid><description>&lt;h3 id="kelowna-track"&gt;Kelowna Track&lt;/h3&gt;
+&lt;p&gt;
 
 
 
@@ -7953,9 +7953,9 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  class="img img-fluid img-left"
  width="4000"
  height="2250"
- src="https://revrc.ca/images/001_hu_714257421982736.JPG"
+ src="https://revrc.ca/images/001_hu_364b29d2b7232b47.JPG"
  alt="alter-text"
- onerror="this.onerror='null';this.src='\/images\/001_hu_714257421982736.JPG'" />
+ onerror="this.onerror='null';this.src='\/images\/001_hu_364b29d2b7232b47.JPG'" /&gt;
  
  
 
@@ -7967,11 +7967,11 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
- &lt;script>
- window.addEventListener("load", (e) => {
+ &lt;script&gt;
+ window.addEventListener("load", (e) =&gt; {
  const lightbox = GLightbox();
  });
- &lt;/script>
+ &lt;/script&gt;
 
 
 
@@ -8065,9 +8065,9 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  class="img img-fluid img-center"
  width="4000"
  height="2250"
- src="https://revrc.ca/images/002_hu_8392d2373762aae4.JPG"
+ src="https://revrc.ca/images/002_hu_e7fd41ce4a3911fa.JPG"
  alt="alter-text"
- onerror="this.onerror='null';this.src='\/images\/002_hu_8392d2373762aae4.JPG'" />
+ onerror="this.onerror='null';this.src='\/images\/002_hu_e7fd41ce4a3911fa.JPG'" /&gt;
  
  
 
@@ -8171,9 +8171,9 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
  class="img img-fluid img-right"
  width="4000"
  height="2250"
- src="https://revrc.ca/images/003_hu_9234b6ceb26c266b.JPG"
+ src="https://revrc.ca/images/003_hu_bb855750ca7a2913.JPG"
  alt="alter-text"
- onerror="this.onerror='null';this.src='\/images\/003_hu_9234b6ceb26c266b.JPG'" />
+ onerror="this.onerror='null';this.src='\/images\/003_hu_bb855750ca7a2913.JPG'" /&gt;
  
  
 
@@ -8185,4 +8185,4 @@ Out of town memberships will be recognized and encouraged.&lt;/p></description><
 
 
 
-&lt;/p></description></item></channel></rss>
+&lt;/p&gt;</description></item></channel></rss>
